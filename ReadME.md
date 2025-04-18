@@ -87,8 +87,10 @@
 
 
 - SMOTE(0.05)
-    <p align="center">
-  <img src="/Images/SMOTE(0.05)/Model_Comparsion(Data_Validation).png" width="1000" />
+
+    -**Validation_DATA**     
+    ![Models_Comparison(DATA_Validation](/Images/SMOTE(0.05)/Model_Comparsion(Data_Validation).png)
+
   <img src="Images/SMOTE(0.05)/TEST/Models_Comparsion(Test_Data).png" width="1000" />
 </p>
 
