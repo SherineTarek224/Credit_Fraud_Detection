@@ -5,8 +5,8 @@
 # Key Challenges:
    
    - #### **Extreme Class imbalanced**: Dataset has Few Fraud Transaction (1<<%)
-   - #### **Features Anonymous: High dimension Features and can't use domain knowledge for feature engineering or selection
-   - #### **Model Overfitting: Try to ensure that the model generalize well on unseen data
+   - #### **Features Anonymous**: High dimension Features and can't use domain knowledge for feature engineering or selection
+   - #### **Model Overfitting**: Try to ensure that the model generalize well on unseen data
    
 # Dependencies:
     
@@ -86,18 +86,24 @@
 - Models_Performance Comparison (SMOTE(0.05) and optimal_threshold and its f1_score calculated on **Validation_Data_only**)
 
 
-- SMOTE(0.05)
+-  SMOTE(0.05)
 
-    -**Validation_DATA**     
+    - **Validation_DATA**     
     ![Models_Comparison(DATA_Validation](/Images/SMOTE(0.05)/Model_Comparsion(Data_Validation).png)
 
-  <img src="Images/SMOTE(0.05)/TEST/Models_Comparsion(Test_Data).png" width="1000" />
-</p>
+    - **TEST_DATA**
+      
+     ![Models_Comparison(DATA_Test](Images/SMOTE(0.05)/TEST/Models_Comparsion(Test_Data).png)
+
+  
 
 
 - UnderSampling(0.05)
-    <p align="center">
-  <img src="Images\Under_Sampling(0.05)/Model_Comparsion(Validataion_DATA).png" width="1000" />
-  <img src="Images/Under_Sampling(0.05)/TEST/Model_Comparsion(TEST_DATA).png" width="1000" />
-</p>
+    - **Validation_DATA**     
+    ![Models_Comparison(DATA_Validation](Images\Under_Sampling(0.05)/Model_Comparsion(Validataion_DATA).png)
+
+    - **TEST_DATA**
+      
+     ![Models_Comparison(DATA_Test](Images/Under_Sampling(0.05)/TEST/Model_Comparsion(TEST_DATA).png)
+  
 
