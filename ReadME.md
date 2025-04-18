@@ -88,14 +88,14 @@
 
 - SMOTE(0.05)
     <p align="center">
-  <img src="/Images/SMOTE(0.05)/Model_Comparsion(Data_Validation).png" width="500" />
-  <img src="Images/SMOTE(0.05)/TEST/Models_Comparsion(Test_Data).png" width="500" />
+  <img src="/Images/SMOTE(0.05)/Model_Comparsion(Data_Validation).png" width="1000" />
+  <img src="Images/SMOTE(0.05)/TEST/Models_Comparsion(Test_Data).png" width="1000" />
 </p>
 
 
 - UnderSampling(0.05)
     <p align="center">
-  <img src="Images\Under_Sampling(0.05)/Model_Comparsion(Validataion_DATA).png" width="500" />
-  <img src="Images/Under_Sampling(0.05)/TEST/Model_Comparsion(TEST_DATA).png" width="500" />
+  <img src="Images\Under_Sampling(0.05)/Model_Comparsion(Validataion_DATA).png" width="1000" />
+  <img src="Images/Under_Sampling(0.05)/TEST/Model_Comparsion(TEST_DATA).png" width="1000" />
 </p>
 
