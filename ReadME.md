@@ -23,6 +23,8 @@
    - Verify Installation
   
                conda list
+# Datasets:
+  - You can download the dataset from [Google Drive](https://drive.google.com/drive/folders/1jY_XGhe9ubyX5ooZbxuyvfROkVrB2eac). Place the extracted files inside the `Dataset/` folder.
 
 # Repo Structure:
 
