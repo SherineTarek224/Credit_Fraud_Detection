@@ -100,7 +100,7 @@
 
 - UnderSampling(0.05)
     - **Validation_DATA**     
-    ![Models_Comparison(DATA_Validation](Images\Under_Sampling(0.05)/Model_Comparsion(Validataion_DATA).png)
+    ![Models_Comparison(DATA_Validation](Images/Under_Sampling(0.05)/Model_Comparsion(Validataion_DATA).png)
 
     - **TEST_DATA**
       
